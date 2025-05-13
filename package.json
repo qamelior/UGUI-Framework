@@ -7,10 +7,5 @@
   "author": {
     "name": "Nikita Veselov",
     "email": "nick.veselov.gamedev@gmail.com"
-  },
-  "dependencies": {
-    "com.qamelior.unirx",
-    "com.qamelior.zenject",
-    "com.qamelior.naughtyattributes"
   }
 }
