@@ -9,8 +9,8 @@
     "email": "nick.veselov.gamedev@gmail.com"
   },
   "dependencies": {
-    "com.qamelior.unirx": "1.0.0",
-    "com.qamelior.zenject": "1.0.0",
-    "com.qamelior.naughtyattributes": "1.0.0"
+    "com.qamelior.unirx",
+    "com.qamelior.zenject",
+    "com.qamelior.naughtyattributes"
   }
 }
