@@ -9,8 +9,8 @@
     "email": "nick.veselov.gamedev@gmail.com"
   },
   "dependencies": {
-    "github.svermeulen.unirx": "https://github.com/neuecc/UniRx.git",
-    "dev.danecek.naughtyattributes": "https://github.com/dbrizov/NaughtyAttributes.git",
-    "com.svermeulen.extenject": "https://github.com/modesttree/Extenject.git"
+    "com.qamelior.unirx": "1.0.0",
+    "com.qamelior.zenject": "1.0.0",
+    "com.qamelior.naughtyattributes": "1.0.0"
   }
 }
