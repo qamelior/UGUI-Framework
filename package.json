@@ -1,0 +1,16 @@
+{
+  "name": "com.qamelior.uguiframework",
+  "version": "1.0.0",
+  "displayName": "uGUI Framework",
+  "description": "Framework for building UGUI in your project",
+  "unity": "2022.3",
+  "author": {
+    "name": "Nikita Veselov",
+    "email": "nick.veselov.gamedev@gmail.com"
+  },
+  "dependencies": {
+    "github.svermeulen.unirx": "7.1.0",
+    "dev.danecek.naughtyattributes": "2.1.0",
+    "com.svermeulen.extenject": "9.3.0"
+  }
+}
