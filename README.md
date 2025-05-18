@@ -12,5 +12,5 @@ A DI-based backend framework for your UI system, featuring:
 
 Dependencies to other plugins:
 - Zenject (https://github.com/modesttree/Zenject.git)
-- UniRx (https://github.com/neuecc/UniRx.git)
+- UniRx (https://assetstore.unity.com/packages/tools/integration/unirx-reactive-extensions-for-unity-17276#content)
 - NaughtyAttributes (https://github.com/dbrizov/NaughtyAttributes.git)
