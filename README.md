@@ -9,3 +9,8 @@ A DI-based backend framework for your UI system, featuring:
   - ![image](https://github.com/user-attachments/assets/5f8f9d03-9f2d-4ffe-8825-7eec84adb5ef)
 - scene-specific user-defined pool of UI elements that they want to show in each scene (UIPack)
   - ![image](https://github.com/user-attachments/assets/c153fee4-e2b5-4e29-8ee4-3b6988459942)
+
+Dependencies to other plugins:
+- Zenject (https://github.com/modesttree/Zenject.git)
+- UniRx (https://github.com/neuecc/UniRx.git)
+- NaughtyAttributes (https://github.com/dbrizov/NaughtyAttributes.git)
